@@ -1,4 +1,5 @@
 //-> Decompiled by DarkSim | 18.02.2013 | 1.01.00 GS-N (All names are original)
+//-> Agregamos MAX LEVEL 1000 y MAX POINT 1000 para que la Quest Master No finalice en 200. -- CesarS.
 // -------------------------------------------------------------------------------
 
 #pragma once
